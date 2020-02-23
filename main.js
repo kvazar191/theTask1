@@ -30,4 +30,4 @@ console.log(appData.expenses);
 
 let budgetOneDay = (appData.budget/30).toFixed(); // бюджет на 1 день с округлением
 
-alert("Бюджет на 1 день " + budgetOneDay );
+alert('Бюджет на 1 день ' + budgetOneDay );
